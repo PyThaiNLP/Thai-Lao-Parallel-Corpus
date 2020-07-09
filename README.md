@@ -1,7 +1,9 @@
 # Thai Lao Parallel corpus
 Thai Lao Parallel corpus
 
-**version**: 0.1
+[![DOI](https://zenodo.org/badge/261172947.svg)](https://zenodo.org/badge/latestdoi/261172947)
+
+**version**: 0.2
 
 ## File
 
