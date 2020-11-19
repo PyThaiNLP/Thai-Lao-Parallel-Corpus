@@ -3,7 +3,7 @@ Thai Lao Parallel corpus
 
 [![DOI](https://zenodo.org/badge/261172947.svg)](https://zenodo.org/badge/latestdoi/261172947)
 
-**version**: 0.2
+**version**: 0.3
 
 ## File
 
