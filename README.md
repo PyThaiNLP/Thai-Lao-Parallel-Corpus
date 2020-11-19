@@ -7,7 +7,7 @@ Thai Lao Parallel corpus
 
 ## File
 
-- vientiane-thaiembassy.csv : Data from Royal Thai Embassy Vientiane, Lao PDR. (http://vientiane.thaiembassy.org). this file split used , (update 04/05/2020 (DD/MM/YYYY))
+- vientiane-thaiembassy.csv : Data from Royal Thai Embassy Vientiane, Lao PDR. (http://vientiane.thaiembassy.org). this file split used , (update 19/11/2020 (DD/MM/YYYY))
 
 
 ## License
