@@ -3,7 +3,7 @@ Thai Lao Parallel corpus
 
 [![DOI](https://zenodo.org/badge/261172947.svg)](https://zenodo.org/badge/latestdoi/261172947)
 
-**version**: 0.3
+**version**: 0.4
 
 ## File
 
@@ -12,9 +12,9 @@ Thai Lao Parallel corpus
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+Released to public domain under Creative Commons Zero v1.0 Universal license.
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+This work is licensed under a Creative Commons Zero v1.0 Universal license.
 
 
 
