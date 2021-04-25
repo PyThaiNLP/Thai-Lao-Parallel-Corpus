@@ -3,11 +3,12 @@ Thai Lao Parallel corpus
 
 #### [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4394642.svg)](https://doi.org/10.5281/zenodo.4394642)
 
-**version**: 0.5
+**version**: 0.6
 
 ## File
 
-- vientiane-thaiembassy.csv : Data from Royal Thai Embassy Vientiane, Lao PDR. (http://vientiane.thaiembassy.org). this file split used , (update 27/12/2020 (DD/MM/YYYY))
+- vientiane-thaiembassy.csv : Data from Royal Thai Embassy Vientiane, Lao PDR. (http://vientiane.thaiembassy.org). this file split used , (update 26/04/2021 (DD/MM/YYYY))
+- vientiane-thaiembassy-sent.csv - Lao to Thai sents. (update 26/04/2021 (DD/MM/YYYY))
 
 
 ## License
